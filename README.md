@@ -27,4 +27,4 @@ then, you can clone this repository with:
 git clone --recurse-submodules -j8 <repository link>
 ```
 
-after cloning, can navigate the repository with your favorite file manager, or with terminal commands.
+after cloning, you can navigate this repository with your favorite file manager, or with terminal commands.
