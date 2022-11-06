@@ -1,0 +1,3 @@
+[submodule "external/arazyan"]
+	path = external/arazyan
+	url = https://github.com/arazyan/notes.git
