@@ -16,6 +16,9 @@ sudo apt install git
 # arch
 sudo pacman -S git  # if the command errors out, you need to update your repo cache (see below)
 # `sudo pacman -Syu` will update your repo cache and upgrade your system (partial upgrades are discouraged)
+
+# macos
+brew install git  # prepend HOMEBREW_NO_AUTO_UPDATE=1 if you don't want to upgrade your homebrew installation
 ```
 
 then, you can clone this repository with:
