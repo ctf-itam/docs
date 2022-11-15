@@ -1,3 +1,6 @@
 [submodule "external/arazyan"]
 	path = external/arazyan
 	url = https://github.com/arazyan/notes.git
+[submodule "external/redpower5x5-parsing"]
+	path = external/redpower5x5-parsing
+	url = https://github.com/redpower5x5/misis_ctf_parsing
