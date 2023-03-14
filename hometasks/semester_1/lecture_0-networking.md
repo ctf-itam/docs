@@ -6,6 +6,8 @@
 
 Always consult *the documentation* if you have any questions. Alternatively, consult `man`.
 
+### Action
+
 1. Run a container with `nginx` image and expose its port 80 to the host under port 8040.
 2. Visit the webpage in any browser under `<local IP or DNS name>:8040`.
 3. Get to know you container's internal IP address (typically starting with 172.<...>): `docker inspect <container ID> | grep IPAddress`.
